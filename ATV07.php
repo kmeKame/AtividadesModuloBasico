@@ -3,7 +3,7 @@
 em uma variável para ser usada mais tarde*/
 
 $mes = ["Janeiro", "Fevereiro", "Março",
-"Abril","Maio", "Junho", "Julho", "Agosto", "Setembro",
+"Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro",
 "Outubro", "Novembro", "Dezembro"];
 
 $numMes = 8;
